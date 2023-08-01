@@ -11,11 +11,6 @@ function App(): JSX.Element {
         <View style={{gap: 16, paddingHorizontal: 8, paddingTop: 16}}>
           <Baiviet />
           <Baiviet />
-          <Baiviet />
-          <Baiviet />
-          <Baiviet />
-          <Baiviet />
-          <Baiviet />
         </View>
       </ScrollView>
     </SafeAreaView>
